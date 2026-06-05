@@ -1,13 +1,12 @@
-```
 # GetLinuxOS
 
 Shell script that prints useful information about a Linux system such as:
 
-1 - Hostname
-2 - Operating system name
-3 - Kernel version
-4 - CPU
-5 - Memory details
+1 - Hostname <br>
+2 - Operating system name <br>
+3 - Kernel version <br>
+4 - CPU <br>
+5 - Memory details <br>
 6 - And more ...
 
 ## Usage
