@@ -7,8 +7,8 @@ Shell script that prints useful information about a Linux system such as:
 3 - Kernel version <br>
 4 - CPU <br>
 5 - Memory details <br>
-6 - Disk partition <br>
-7 - Network info <br>
+6 - Disk partitions <br>
+7 - Network interfaces info <br>
 8 - And more ...
 
 ## Usage
