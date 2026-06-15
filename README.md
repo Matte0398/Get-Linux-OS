@@ -1,4 +1,4 @@
-# GetLinuxOS
+# Get-Linux-OS
 
 Shell script that prints useful information about a Linux system such as:
 
